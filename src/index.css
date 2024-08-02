@@ -1,0 +1,36 @@
+.navbar {
+  text-decoration: underline;
+  border-style: solid;
+  border-radius: 50px;
+  padding: 1rem;
+  background-color: aqua;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar li {
+  margin-right: 1rem;
+}
+
+.navbar a {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: lightcoral;
+  border-radius: 50px;
+  
+}
+
+img{
+  padding: 20px;
+  width: 270px;
+  height: 250px;
+}
